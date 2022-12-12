@@ -1,7 +1,6 @@
-# Ficbook-downloader
-Версия скачивалки фиков для фикбука
+# Fanfic-Downloader
 
-**Скачать расширение: [download](https://github.com/anareaty/Ficbook-downloader/archive/refs/heads/main.zip)**
+**Скачать расширение: [download]()**
 
 
 ## Установка:
