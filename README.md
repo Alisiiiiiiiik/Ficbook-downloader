@@ -1,6 +1,6 @@
 # Ficbook-Downloader
 
-**Скачать расширение: [download]()**
+**Скачать расширение: [download](https://github.com/anareaty/Ficbook-downloader/archive/refs/heads/main.zip)**
 
 Расширение для браузеров Chrome и Opera. Позволяет скачивать фанфики с Фикбука по несколько файлов за один клик.
 
